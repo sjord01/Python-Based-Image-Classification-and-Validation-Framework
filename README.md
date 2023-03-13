@@ -3,7 +3,7 @@ Machine learning framework using the MNIST dataset, which a set of 70,000 small 
 
 ![ml1](https://user-images.githubusercontent.com/104819501/222013614-e64c51eb-0ab4-4c49-95b4-b0df3f72d882.png)
 
-The learning pipeline utilizes the SciKit-Learn tools and , thus, involve:
+The learning pipeline utilizes the SciKit-Learn tools and , thus, involves:
 - binary classifiers
 - confusion matrix
 - precision and recall
