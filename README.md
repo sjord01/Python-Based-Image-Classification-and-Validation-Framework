@@ -1,4 +1,4 @@
-# Image Classification/Image Validation
+# Python-based Image Classification and Validation Framework with Scikit-learn
 Machine learning framework using the MNIST dataset, which a set of 70,000 small images of digits handwritten by high school students and employees of the US Census Bureau.
 
 ![ml1](https://user-images.githubusercontent.com/104819501/222013614-e64c51eb-0ab4-4c49-95b4-b0df3f72d882.png)
